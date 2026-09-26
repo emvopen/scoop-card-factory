@@ -1,11 +1,11 @@
 {
     "version": "0.2.2",
     "description": "Installs and personalizes EMV test card applets from a terminal",
-    "homepage": "https://github.com/howardman0209/EmvTestCardFactory-CLI",
+    "homepage": "https://github.com/emvopen/EmvTestCardFactory-CLI",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/howardman0209/EmvTestCardFactory-CLI/releases/download/cli-0.2.2/card-factory-0.2.2-windows-x64.zip",
+            "url": "https://github.com/emvopen/EmvTestCardFactory-CLI/releases/download/cli-0.2.2/card-factory-0.2.2-windows-x64.zip",
             "hash": "973a5f806829eebef9814a1adafa42678e3dd819f9d5bfa1acec9cc0a2350ce6",
             "extract_dir": "card-factory-0.2.2-windows-x64"
         }

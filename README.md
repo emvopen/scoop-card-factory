@@ -13,8 +13,8 @@ release.
 ## Install
 
 ```powershell
-scoop bucket add howardman0209 https://github.com/howardman0209/scoop-card-factory
-scoop install howardman0209/card-factory
+scoop bucket add emvopen https://github.com/emvopen/scoop-card-factory
+scoop install emvopen/card-factory
 card-factory --version
 card-factory doctor --scheme mastercard
 ```
